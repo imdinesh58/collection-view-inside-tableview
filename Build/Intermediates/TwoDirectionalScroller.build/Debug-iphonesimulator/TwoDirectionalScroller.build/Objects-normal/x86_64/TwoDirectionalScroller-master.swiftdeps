@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "1b7641c25511d9dc2f2741cb043166ba"
+build_time: [1517210049, 947477000]
+inputs:
+  "/Users/apple-1/Downloads/HorizontalScrollingCollectionView-master/TwoDirectionalScroller/ViewController.swift": [1478483654, 0]
+  "/Users/apple-1/Downloads/HorizontalScrollingCollectionView-master/TwoDirectionalScroller/VideoCell.swift": [1478483654, 0]
+  "/Users/apple-1/Downloads/HorizontalScrollingCollectionView-master/TwoDirectionalScroller/CategoryRow.swift": [1478483654, 0]
+  "/Users/apple-1/Downloads/HorizontalScrollingCollectionView-master/TwoDirectionalScroller/AppDelegate.swift": [1478483654, 0]
